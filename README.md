@@ -5,8 +5,10 @@
 Focused on the React ecosystem and building AI-assisted frontend applications.
 
 
+![Internship](https://img.shields.io/badge/Internship-Infix.ai-blue?style=flat-square&logo=react)
+![Location](https://img.shields.io/badge/Location-Shenzhen-success?style=flat-square)
 
-🌱 Exploring AI, Deep Learning, and LLMs in frontend systems.
+> Currently an intern at **Infix.ai**, exploring the intersection of LLMs and frontend systems.
 
 
 
