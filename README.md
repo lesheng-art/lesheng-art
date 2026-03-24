@@ -5,7 +5,7 @@
 Focused on the React ecosystem and building AI-assisted frontend applications.
 
 
-🚀 Currently a **Frontend Development Intern** , exploring the intersection of **LLMs** and **Frontend Systems**.
+🚀 Currently a **Frontend Development Intern** at Infix.ai, exploring the intersection of **LLMs** and **Frontend Systems**.
 
 
 
